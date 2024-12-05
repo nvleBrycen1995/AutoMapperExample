@@ -1,0 +1,68 @@
+# Build Folders
+AutoMapperApi/bin/
+AutoMapperApi/obj/
+AutoMapperApi/out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio working files
+.vscode/
+.vs/
+.idea/
+*.cache
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Package directories
+packages/
+*.nupkg
+*.snupkg
+
+# Compiled DLLs and executable files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.so
+*.dylib
+*.lib
+
+# Rider IDE files
+.idea/
+*.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# AutoMapper Profiles
+AutoMapperProfiles/bin/
+AutoMapperProfiles/obj/
+
+# AutoMapper Models
+AutoMapperModels/bin/
+AutoMapperModels/obj/
+
+# AutoMapper API
+AutoMapperApi/bin/
+AutoMapperApi/obj/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+
+# Node.js folders
+node_modules/
+
+# Secrets and configuration
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
